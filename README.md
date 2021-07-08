@@ -5,12 +5,7 @@
 Thalaaashu"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:2480ashishsingh@gmail.com?subject=Hello%20Ashish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=
-Thalaaashu&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Gaurav's github stats"/>
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Thalaaashu&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ashish's github stats"/>
-</p>
+
 <br />
 <br />
 <br />
