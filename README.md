@@ -1,6 +1,6 @@
 <p align="center"></p>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/ashish-singh-74915718a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/imasshish/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/
 Thalaaashu"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:2480ashishsingh@gmail.com?subject=Hello%20Ashish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
